@@ -53,6 +53,15 @@ body
 
 
 /* feature */
+.feature{
+    margin: 50px auto 0px;
+}
+
+.feature-blks{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
 .feature img
 {
     width: 100%;
@@ -212,10 +221,6 @@ footer .copyright
     .nopadding {
         padding: 15px !important;
         margin: 0 !important;
-    }
-
-    .portfolio img {        
-        margin-bottom: 15px;
     }
 
     .call-top-action h1 {
@@ -572,4 +577,18 @@ footer .copyright
     left: 50%;
     transform: translate(-50%,-50%);
     text-align: center;
+}
+
+@media only screen and (max-width: 767px){
+    .feature-blks{
+        display: grid;
+        grid-template-columns: 1fr;
+        margin-bottom: 30px;
+    }
+    .feature-blk{
+        order: 2;
+    }
+    .feature-blk.image-blk{
+        order: 1;
+    }
 }
