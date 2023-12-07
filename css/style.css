@@ -591,4 +591,7 @@ footer .copyright
     .feature-blk.image-blk{
         order: 1;
     }
+    .project-blks{
+        grid-template-columns: 1fr;
+    }
 }
