@@ -101,7 +101,7 @@ body
     margin: 50px 0px;
 }
 
-.portfolio img
+.portfolio a img
 {
     width: 100%;
     cursor: pointer;
