@@ -577,3 +577,10 @@ footer .copyright
     }
 
 }
+
+.project-blks .project-image{
+    width: 100%;
+}
+.project-blks img{
+    max-width: 100%;
+}
