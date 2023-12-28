@@ -545,7 +545,7 @@ footer .copyright
     padding: 9px;
     border: 1px solid #e3e3e3;
 }
-.project-navs .slick-arrows{
+.project-navs .slick-arrow{
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
