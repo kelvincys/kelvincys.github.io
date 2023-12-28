@@ -538,8 +538,13 @@ footer .copyright
     background-size: cover;
 }
 
-
-
+.slick-slide{
+    padding: 10px;
+}
+.project-navs .slick-current{
+    padding: 9px;
+    border: 1px solid #e3e3e3;
+}
 
 
 
