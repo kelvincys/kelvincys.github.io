@@ -545,8 +545,22 @@ footer .copyright
     padding: 9px;
     border: 1px solid #e3e3e3;
 }
+.project-navs .slick-arrows{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 10;
+    color: black;
+    font-size: 20px;
+}
 
+.project-navs .slick-prev{
+    left: -40px;
+}
 
+.project-navs .slick-next{
+    right: -40px;
+}
 
 
 @media only screen and (max-width: 767px){
