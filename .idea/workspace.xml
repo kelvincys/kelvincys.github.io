@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13960fd1-b221-4e9b-98fc-9385c77af2ce" name="Default Changelist" comment="update to slicks slider">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +47,7 @@
       <updated>1701865862022</updated>
       <workItem from="1701865863386" duration="4675000" />
       <workItem from="1701965002969" duration="2411000" />
-      <workItem from="1703749037100" duration="2125000" />
+      <workItem from="1703749037100" duration="2647000" />
     </task>
     <task id="LOCAL-00001" summary="update to slicks slider">
       <created>1703750713593</created>
@@ -72,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703751130964</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update to slicks slider">
+      <created>1703751696118</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703751696118</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
