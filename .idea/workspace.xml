@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13960fd1-b221-4e9b-98fc-9385c77af2ce" name="Default Changelist" comment="update to slicks slider">
+    <list default="true" id="13960fd1-b221-4e9b-98fc-9385c77af2ce" name="Default Changelist" comment="add font awesome">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
       <updated>1701865862022</updated>
       <workItem from="1701865863386" duration="4675000" />
       <workItem from="1701965002969" duration="2411000" />
-      <workItem from="1703749037100" duration="2647000" />
+      <workItem from="1703749037100" duration="2961000" />
     </task>
     <task id="LOCAL-00001" summary="update to slicks slider">
       <created>1703750713593</created>
@@ -77,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703751696118</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add font awesome">
+      <created>1703752221092</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703752221092</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +92,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update to slicks slider" />
-    <option name="LAST_COMMIT_MESSAGE" value="update to slicks slider" />
+    <MESSAGE value="add font awesome" />
+    <option name="LAST_COMMIT_MESSAGE" value="add font awesome" />
   </component>
 </project>
