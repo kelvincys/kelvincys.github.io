@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13960fd1-b221-4e9b-98fc-9385c77af2ce" name="Default Changelist" comment="change she css">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +47,7 @@
       <workItem from="1701865863386" duration="4675000" />
       <workItem from="1701965002969" duration="2411000" />
       <workItem from="1703749037100" duration="5828000" />
-      <workItem from="1703847166004" duration="14860000" />
+      <workItem from="1703847166004" duration="19003000" />
     </task>
     <task id="LOCAL-00001" summary="update to slicks slider">
       <created>1703750713593</created>
@@ -137,5 +138,11 @@
     <MESSAGE value="add she com key tech" />
     <MESSAGE value="change she css" />
     <option name="LAST_COMMIT_MESSAGE" value="change she css" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1703995860133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1703995860133" />
   </component>
 </project>
